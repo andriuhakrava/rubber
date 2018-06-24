@@ -1,0 +1,150 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	margin: 0;
+	font-size: 36px;
+}
+
+h2 {
+	margin: 0 0 61px;
+	font-size: 28px;
+}
+
+h3 {
+	margin: 0;
+	font-size: 24px;
+}
+
+.container {
+	width: 1340px;
+	margin: 0 auto;
+	padding: 25px 0 147px;
+}
+
+.section1 {
+	margin: 73px auto 64px;
+	padding: 17px;
+	width: 940px;
+	background: #c8e19d;
+	font-size: 18px;
+}
+
+.section1 h2 {
+	margin-bottom: 0;
+}
+
+.section_rubber {
+	margin-top: 61px;
+}
+
+.aside {
+	float: left;
+	padding: 21px 24px 21px 24px;
+	box-sizing: border-box;
+	width: 200px;
+	font-size: 18px;
+	background: #c8e19d;
+}
+
+.aside_list {
+	padding-left: 15px;
+}
+
+.aside_list li {
+	margin-bottom: 8px;
+}
+
+.article {
+	float: right;	
+	width: 1127px;
+	padding: 21px 18px 21px 24px;
+	box-sizing: border-box;
+	background: #c8e19d;
+}
+
+.clear {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+.article_left {
+	float: left;	
+}
+
+.aside_right {
+	float: right;
+}
+
+.photo {
+	float: left;
+	padding: 18px 18px 15px;
+	width: 185px;
+	background: #c8e19d;
+}
+
+.article_middle {
+	padding: 22px 34px 22px 24px;
+	margin-left: 232px;
+	margin-right: 212px;
+	background: #c8e19d;	
+}
+
+.photo_right {
+	float: right;
+}
+
+.article_center {
+	margin-left: 212px;
+	margin-right: 232px;
+}
+
+.article3_left {
+	float: left;
+	width: 899px;
+	background: #c8e19d;	
+	padding: 21px 18px 21px 24px;
+	box-sizing: border-box;
+}
+
+.photo3 {
+	display: inline-block;
+	margin-left: 10px;
+	padding: 18px 18px 15px;
+	background: #c8e19d;
+}
+
+.table-section {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 10px;
+	margin-top: 61px;
+}
+
+.photo_table {
+	display: table-cell;
+	width: 222px;
+	padding: 18px 18px 15px;
+	box-sizing: border-box;
+	background: #c8e19d;
+}
+
+.article_table {
+	display: table-cell;
+	vertical-align: top;
+	padding: 22px 34px 22px 24px;
+	background: #c8e19d;
+}
+
+.aside_table {
+	display: table-cell;
+	vertical-align: top;
+	padding: 21px 24px 21px 24px;
+	box-sizing: border-box;
+	width: 200px;
+	background: #c8e19d;
+}
