@@ -28,7 +28,7 @@ h3 {
 .section1 {
 	margin: 73px auto 64px;
 	padding: 17px;
-	width: 940px;
+	max-width: 940px;
 	background: #c8e19d;
 	font-size: 18px;
 }
@@ -60,7 +60,7 @@ h3 {
 
 .article {
 	float: right;	
-	width: 1127px;
+	max-width: 1127px;
 	padding: 21px 18px 21px 24px;
 	box-sizing: border-box;
 	background: #c8e19d;
@@ -105,7 +105,7 @@ h3 {
 
 .article3_left {
 	float: left;
-	width: 899px;
+	max-width: 899px;
 	background: #c8e19d;	
 	padding: 21px 18px 21px 24px;
 	box-sizing: border-box;
